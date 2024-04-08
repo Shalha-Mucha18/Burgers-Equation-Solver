@@ -1,6 +1,6 @@
 # Burgers' Equation Solver using Physics-Informed Neural Networks (PINN)
 ## Overview
-This repository contains an implementation of solving Burgers' equation using Physics-Informed Neural Networks (PINN). PINNs are a class of neural networks that are trained to solve partial differential equations (PDEs) while satisfying the governing physics laws at the same time. In this project, we utilize PINNs to approximate solutions to Burgers' equation, a fundamental model in fluid dynamics and nonlinear wave propagation.
+This repository contains an implementation of solving Burgers' equation using Physics-Informed Neural Networks (PINN). PINNs are a class of neural networks that are trained to solve partial differential equations (PDEs) while satisfying the governing physics laws at the same time. In this project, I utilize PINNs to approximate solutions to Burgers' equation, a fundamental model in fluid dynamics and nonlinear wave propagation.
 ## Features
 - Implementation of Burgers' equation solver using PINNs in TensorFlow.
 - Training and evaluation scripts for solving the equation in both 1D and 2D domains.
