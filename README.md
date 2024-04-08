@@ -7,7 +7,7 @@ This repository contains an implementation of solving Burgers' equation using Ph
 - Visualization tools for plotting the learned solutions and comparing with analytical or numerical solutions.
 - Modular code structure for easy experimentation with different network architectures, loss functions, and training hyperparameters.
 ## Requirements
--Python 3
+- Python 3
 - TensorFlow 2
 - NumPy
 - Matplotlib
